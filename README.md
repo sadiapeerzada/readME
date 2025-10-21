@@ -1,7 +1,4 @@
-
-
-![GitHub Gamers GIF](github_gamers.gif)
-
+<img src="github_gamers.gif" alt="GitHub Gamers GIF" width="100%" height="550px" />
 
 ---
 # Hey, This is Sadia Peerzada👋
@@ -9,7 +6,7 @@
 - Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
 - Passionate about coding, problem-solving, exploring new technologies and building software solutions
 - Focused on mastering computing fundamentals for academic research and internship opportunities
-
+##  Check out my awesome Holopin badges! 🔥
 
 [![An image of @sadiapeerzada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadiapeerzada)](https://holopin.io/@sadiapeerzada)
 

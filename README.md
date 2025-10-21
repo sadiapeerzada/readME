@@ -1,5 +1,9 @@
-# readME
+##readME
+---
 
+[![An image of @sadiapeerzada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadiapeerzada)](https://holopin.io/@sadiapeerzada)
+
+---
 # Hey, This is Sadia Peerzada👋
   **About-Me**
 - Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
